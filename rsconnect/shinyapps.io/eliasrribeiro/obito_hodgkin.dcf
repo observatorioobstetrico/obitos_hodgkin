@@ -1,0 +1,14 @@
+name: obito_hodgkin
+title: obito_hodgkin
+username:
+account: eliasrribeiro
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7599716
+bundleId: 6503548
+url: https://eliasrribeiro.shinyapps.io/obito_hodgkin/
+when: 1668186677.86579
+lastSyncTime: 1668186677.8658
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: codigo.R|hodgkin.html|hodgkin.Rmd|tratamento_dados.R|tratamento_dados2.R
